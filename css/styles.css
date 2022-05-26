@@ -1,1 +1,13 @@
 /* Add your CSS here */
+body {
+    background-image: url('../Space-Background-Image-2.jpg');
+}
+h1 {
+    font-family: 'Cinzel', serif;
+        margin: auto;
+        width: 25%;
+        padding: 10px;
+}
+p {
+    color: black
+}
